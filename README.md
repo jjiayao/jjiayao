@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jiayao
-- 👀 I’m interested in robotics
+- 👀 I’m interested in quadcopter
 - 🌱 I’m currently learning ML and RL
 - 📫 Email: jjiayao@kaist.ac.kr
 
